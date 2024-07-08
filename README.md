@@ -1,4 +1,4 @@
-These coding projects are for the C++ arduino script for an Arduino Uno circuit and an ESP32 board 
+These coding projects are for the C++ arduino script for an Arduino Uno circuit and a Python script for an ESP32 board 
 
 
 Servo_Keypad
